@@ -1,4 +1,4 @@
-# Mental Health Chatbot Using Gemini API
+# Mental Health Chatbot Using Groq API
 
 A simple AI-powered mental health chatbot built using the Gemini API. The chatbot provides supportive conversations, stress relief suggestions, mindfulness tips, and emotional support.
 
